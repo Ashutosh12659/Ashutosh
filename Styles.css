@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    height:200px;
+    width:100vw;
+}
+footer .footer-elem{
+    display: inline-block;
+    margin:0;
+    padding: 0;
+    width: 25%;
+    height:100%;
+    border: hotpink 10px double;
+    border-radius:10px;
+}
